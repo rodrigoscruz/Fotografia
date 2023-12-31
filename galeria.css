@@ -5,7 +5,8 @@
 }
 
 body{
-    background-color: #282c34;
+    background: rgb(12,10,7);
+    background: linear-gradient(180deg, rgba(12,10,7,1) 0%, rgba(66,52,15,1) 50%, rgba(176,135,28,1) 100%);
 }
 
 div.galeria-modal{
